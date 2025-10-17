@@ -37,7 +37,7 @@ I'm passionate about building enterprise-grade security products that developers
 - Certified Scrum Product Owner (CSPO)
 - Project Management Professional (PMP)
 - EC-Council Certified Ethical Hacker (CEH)
-- SAFe® 5 Product Owner/Product Manager
+- SAFe® Product Owner/Product Manager
 - Access Data Certified Forensics Examiner (ACE)
 
 ## 📫 Connect With Me
