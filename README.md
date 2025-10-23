@@ -2,7 +2,7 @@
 
 > Product Leader | Developer-First Security | AI + Security Researcher
 
-I'm passionate about building enterprise-grade security products that developers trust. With 15+ years of experience, I specialize in making complex security accessible—turning WAF rules, bot detection, and rate limiting into self-service products that protect without blocking velocity.
+I'm passionate about building enterprise-grade security products that developers trust. With 15+ years of experience, I specialize in making complex security accessible, turning WAF rules, bot detection, and rate limiting into self-service products that protect without blocking velocity.
 
 ## 🛡️ Core Expertise
 
