@@ -41,7 +41,7 @@ I'm passionate about building enterprise-grade security products that developers
 - Access Data Certified Forensics Examiner (ACE)
 
 ## 📫 Connect With Me
-- Email: Tarique.Smith@gmail.com
+- Email: Tarique.Smith@outlook.com
 - LinkedIn: [linkedin.com/in/tarique-smith](https://linkedin.com/in/tarique-smith)
 
 ---
