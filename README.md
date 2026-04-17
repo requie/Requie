@@ -208,7 +208,7 @@ Member of the **OWASP AI Exchange** authors group.
 -----
 ## Explore the Work
 
-- [Agentegrity Framework](https://github.com/requie/agentegrity-framework) — structural integrity framework for autonomous AI agents
+- [Agentegrity Framework](https://github.com/requie/agentegrity-framework) — structural integrity framework for autonomous AI agents (Coming Soon)
 - [Gideon](https://github.com/cogensec/gideon) — autonomous red teaming CLI for AI agents
 - [LLM Security Guide](https://github.com/requie/LLMSecurityGuide) — practical guidance for securing LLM systems
 - [AI Red Teaming Guide](https://github.com/requie/AI-Red-Teaming-Guide) — applied adversarial testing patterns for AI systems
