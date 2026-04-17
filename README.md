@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A5F&height=200&section=header&text=Tarique%20Smith&fontSize=60&fontColor=F5F0E8&fontAlignY=38&desc=Co-Founder%20%26%20CTO%2C%20Cogensec%20%7C%20AI%20Agent%20Security%20Researcher&descColor=E8A838&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1E3A5F&amp;height=200&amp;section=header&amp;text=Tarique%20Smith&amp;fontSize=60&amp;fontColor=F5F0E8&amp;fontAlignY=38&amp;desc=Co-Founder%20%26%20CTO%2C%20Cogensec%20%7C%20AI%20Agent%20Security%20Researcher&amp;descColor=E8A838&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tarique--smith-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarique-smith)
 [![Cogensec](https://img.shields.io/badge/Cogensec-cogensec.com-2C4A3E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white)](https://cogensec.com)
