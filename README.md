@@ -157,7 +157,7 @@ Product operating models, program and portfolio delivery, cross-functional leade
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark)](https://skillicons.dev)
 
-![Foundation Models](https://img.shields.io/badge/Foundation%20Models-GPT4%20%7C%20Claude%20%7C%20Gemini%20%7C%20Llama-1E3A5F?style=flat-square)
+![Foundation Models](https://img.shields.io/badge/Foundation%20Models-GPT%20%7C%20Claude%20%7C%20Gemini%20%7C%20Llama-1E3A5F?style=flat-square)
 ![Agent Frameworks](https://img.shields.io/badge/Agents-LangChain%20%7C%20LangGraph%20%7C%20MCP-2C4A3E?style=flat-square)
 ![Research Areas](https://img.shields.io/badge/Research-Adversarial%20Robustness%20%7C%20Memory%20Poisoning%20%7C%20Behavioral%20Drift-1E3A5F?style=flat-square)
 ![Physical AI](https://img.shields.io/badge/Physical%20AI-NVIDIA%20Cosmos%20%7C%20Isaac%20Sim%20%7C%20Embodied%20Agents-76B900?style=flat-square&logo=nvidia&logoColor=white)
