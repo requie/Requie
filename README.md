@@ -11,7 +11,6 @@
 [![OWASP](https://img.shields.io/badge/OWASP-AI%20Exchange%20Author-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
 
 </div>
------
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=requie&show_icons=true&theme=dark&bg_color=1E3A5F&title_color=E8A838&icon_color=E8A838&text_color=F5F0E8&border_color=2C4A3E&hide_border=false&include_all_commits=true&count_private=true" />
 
