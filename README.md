@@ -32,8 +32,6 @@ We’re building the endogenous alternative, security as a structural property o
 
 ## 🎯 What I Do
 
-## What I Do
-
 - Build security products that increase protection without slowing delivery
 - Design runtime governance and integrity systems for AI agents
 - Turn complex controls into developer experiences teams actually adopt
