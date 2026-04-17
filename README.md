@@ -14,11 +14,17 @@
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=requie&show_icons=true&theme=dark&bg_color=1E3A5F&title_color=E8A838&icon_color=E8A838&text_color=F5F0E8&border_color=2C4A3E&hide_border=false&include_all_commits=true&count_private=true" />
 
-I build security products and infrastructure at the intersection of AI, agentic systems, and developer experience. My work spans security product strategy, runtime governance for autonomous agents, adversarial testing, and the theoretical foundations of AI agent security.
+I build security products and infrastructure at the intersection of AI, autonomous systems, and developer experience.
 
-Currently defining the AI agent security category at **[Cogensec](https://cogensec.com)**, where we’re building the Agentegrity Framework, the Cortex Series, and the tooling that lets organizations measure and enforce the structural integrity of autonomous agents.
+My work focuses on runtime governance, adversarial testing, agent integrity, and the architectural foundations required to secure AI systems in production.
 
-**The core thesis:** The dominant approach to AI security is exogenous — external guardrails wrapped around agents that have no security intelligence of their own. This architecture has structural limits that compound as agents become more capable. We’re building the endogenous alternative.
+At [Cogensec](https://cogensec.com), I’m building frameworks and tooling for measuring, enforcing, and stress-testing the structural integrity of autonomous agents.
+
+**Core thesis:** Most AI security today is exogenous, external guardrails wrapped around agents with no security intelligence of their own.
+
+That model breaks as agents become more autonomous.
+
+We’re building the endogenous alternative, security as a structural property of the agent itself.
 
 <br clear="right"/>
 
@@ -26,11 +32,13 @@ Currently defining the AI agent security category at **[Cogensec](https://cogens
 
 ## 🎯 What I Do
 
-- Build security infrastructure and products that balance protection, usability, and speed
-- Translate complex security controls into developer experiences that get adopted by choice, not force
-- Design AI and agent security architectures for real-world production deployment
-- Define category-level frameworks that give the industry shared vocabulary and measurement standards
-- Bridge technical depth, product judgment, and cross-functional execution from concept to launch
+## What I Do
+
+- Build security products that increase protection without slowing delivery
+- Design runtime governance and integrity systems for AI agents
+- Turn complex controls into developer experiences teams actually adopt
+- Create frameworks, models, and tooling for AI security evaluation
+- Bridge technical depth, product strategy, and execution from idea to launch
 
 -----
 
@@ -46,8 +54,7 @@ Currently defining the AI agent security category at **[Cogensec](https://cogens
 ![Tests](https://img.shields.io/badge/Tests-66%20Passing-76B900?style=flat-square&logo=pytest&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10+-1E3A5F?style=flat-square&logo=python&logoColor=white)
 
-A formal specification and reference implementation for measuring the structural integrity of autonomous AI agents. Defines three core properties and a scoring methodology across four measurable dimensions: Adversarial Resistance Index, Behavioral Consistency Index, Recovery Integrity Index, and Cross-Domain Portability Score.
-
+A formal framework and reference implementation for measuring the structural integrity of autonomous AI agents. Defines three core properties and scores agents across four measurable dimensions.
 </td>
 <td width="50%">
 
@@ -191,14 +198,23 @@ Member of the **OWASP AI Exchange** authors group.
 
 ## 💡 What Sets Me Apart
 
-|                       |                                                                                                                                      |
-|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|🔭 **Range**            |Technical depth, product judgment, and execution leadership across the full stack — from adversarial research to enterprise delivery  |
-|🧠 **Category Creation**|Coined the term agentegrity, published the formal framework, and defined the vocabulary the industry is adopting for AI agent security|
-|🛠️ **Builder**          |30+ products shipped across startup speed and Fortune 50 scale, with open-source frameworks that developers actually use              |
-|🤝 **Developer Trust**  |Security products built to be adopted by choice, not force — usable, integrated, and fast by design                                   |
-|⚡ **Timing**           |Building the endogenous security layer before the market has a name for it, at the moment physical AI makes it unavoidable            |
+## What Sets Me Apart
 
+| | |
+|---|---|
+|🔭 **Range**|Deep overlap across security research, product strategy, platform design, and enterprise execution|
+|🧠 **Original Thinking**|Developing frameworks and vocabulary for agent integrity, runtime governance, and endogenous AI security|
+|🛠️ **Builder Mentality**|Open-source systems, applied research, and production-minded security tooling|
+|🤝 **Developer Trust**|Security products designed for usability, speed, and adoption|
+|⚡ **Timing**|Focused on the next control layer for AI systems as autonomy, tool use, and physical AI become real deployment concerns|
+-----
+## Explore the Work
+
+- [Agentegrity Framework](https://github.com/requie/agentegrity-framework) — structural integrity framework for autonomous AI agents
+- [Gideon](https://github.com/cogensec/gideon) — autonomous red teaming CLI for AI agents
+- [Bastion](https://github.com/cogensec/bastion) — security tooling for MCP and agent integrations
+- [LLM Security Guide](https://github.com/requie/LLMSecurityGuide) — practical guidance for securing LLM systems
+- [AI Red Teaming Guide](https://github.com/requie/AI-Red-Teaming-Guide) — applied adversarial testing patterns for AI systems
 -----
 
 ## 🏛️ Background
