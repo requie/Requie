@@ -164,7 +164,7 @@ Product operating models, program and portfolio delivery, cross-functional leade
 
 ### 🏗️ Infrastructure & Development
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,react,nextjs,ts,postgres,redis&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,bunkubernetes,aws,gcp,azure,react,nextjs,ts,postgres,redis&theme=dark)](https://skillicons.dev)
 
 ### 🔐 Security Architecture
 
