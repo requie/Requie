@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=1E3A5F&amp;height=200&amp;section=header&amp;text=Tarique%20Smith&amp;fontSize=60&amp;fontColor=F5F0E8&amp;fontAlignY=38&amp;desc=Co-Founder%20%26%20CTO%2C%20Cogensec%20%7C%20AI%20Agent%20Security%20Researcher&amp;descColor=E8A838&amp;descAlignY=58&amp;descSize=18" width="100%"/>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A5F&height=160&section=header&text=Tarique%20Smith&fontSize=48&fontColor=F5F0E8" alt="Tarique Smith header" />
+</p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tarique--smith-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarique-smith)
 [![Cogensec](https://img.shields.io/badge/Cogensec-cogensec.com-2C4A3E?style=for-the-badge)](https://cogensec.com)
 [![NVIDIA Inception](https://img.shields.io/badge/NVIDIA-Inception%20Member-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://nvidia.com/inception)
