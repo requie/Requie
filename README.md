@@ -14,13 +14,23 @@
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=requie&show_icons=true&theme=dark&bg_color=1E3A5F&title_color=E8A838&icon_color=E8A838&text_color=F5F0E8&border_color=2C4A3E&hide_border=false&include_all_commits=true&count_private=true" />
 
-I’m building the security infrastructure for autonomous AI agents. Not guardrails. Not filters. Security intelligence embedded in the agent’s own decision architecture — endogenous security for the era of agentic AI.
+I build security products and infrastructure at the intersection of AI, agentic systems, and developer experience. My work spans security product strategy, runtime governance for autonomous agents, adversarial testing, and the theoretical foundations of AI agent security.
 
 Currently defining the AI agent security category at **[Cogensec](https://cogensec.com)**, where we’re building the Agentegrity Framework, the Cortex Series, and the tooling that lets organizations measure and enforce the structural integrity of autonomous agents.
 
-**The core thesis:** The dominant approach to AI security is exogenous — external guardrails wrapped around agents that have no security intelligence of their own. This architecture has structural limits that compound as agents become more capable. The agents are about to surpass it.
+**The core thesis:** The dominant approach to AI security is exogenous — external guardrails wrapped around agents that have no security intelligence of their own. This architecture has structural limits that compound as agents become more capable. We’re building the endogenous alternative.
 
 <br clear="right"/>
+
+-----
+
+## 🎯 What I Do
+
+- Build security infrastructure and products that balance protection, usability, and speed
+- Translate complex security controls into developer experiences that get adopted by choice, not force
+- Design AI and agent security architectures for real-world production deployment
+- Define category-level frameworks that give the industry shared vocabulary and measurement standards
+- Bridge technical depth, product judgment, and cross-functional execution from concept to launch
 
 -----
 
@@ -97,7 +107,46 @@ AI security benchmarking and evaluation platform. Implements the Agentegrity sco
 
 -----
 
-## 🧪 Technical Stack
+## 🧪 Areas of Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Security Product Leadership
+
+Defining security product strategy from category creation through enterprise adoption. Zero Trust architecture, platform security, secure-by-design systems, API security, developer security tooling, identity, access, and policy enforcement across Fortune 50 and startup-scale environments.
+
+</td>
+<td width="50%">
+
+### 🤖 AI and Agent Security
+
+Endogenous security architecture for autonomous agents, adversarial robustness, prompt injection and jailbreak resilience, RAG security, memory poisoning defense, behavioral drift detection, multi-agent threat modeling, and physical AI security.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☁️ Cloud and Platform Engineering
+
+AWS, GCP, and Azure security architecture. Kubernetes, Docker, distributed systems. DevSecOps and CI/CD security practices. Self-service platform design and developer experience for security adoption.
+
+</td>
+<td width="50%">
+
+### 🏢 Enterprise Execution
+
+Product operating models, program and portfolio delivery, cross-functional leadership, large-scale transformation. 30+ products shipped across startup speed and Fortune 50 scale. Translating technical security into business outcomes.
+
+</td>
+</tr>
+</table>
+
+-----
+
+## 🧰 Technical Stack
 
 ### 🤖 AI & Agent Security Research
 
@@ -115,7 +164,7 @@ AI security benchmarking and evaluation platform. Implements the Agentegrity sco
 ### 🔐 Security Architecture
 
 ![Zero Trust](https://img.shields.io/badge/Architecture-Zero%20Trust%20%7C%20ZTNA%20%7C%20SASE-1E3A5F?style=flat-square&logo=cloudflare&logoColor=white)
-![Security Tools](https://img.shields.io/badge/Tools-WAF%20%7C%20SIEM%20%7C%20PAM%20%7C%20RBAC-2C4A3E?style=flat-square)
+![Security Tools](https://img.shields.io/badge/Tools-WAF%20%7C%20SIEM%20%7C%20PAM%20%7C%20RBAC%20%7C%20Bot%20Detection%20%7C%20DDoS-2C4A3E?style=flat-square)
 ![Red Team](https://img.shields.io/badge/Red%20Team-Adversarial%20Simulation%20%7C%20Threat%20Modeling-E8A838?style=flat-square)
 
 ### 📋 Compliance
@@ -137,6 +186,18 @@ AI security benchmarking and evaluation platform. Implements the Agentegrity sco
 |📰|**Zero Day Agent Newsletter**                                 |Weekly intelligence on AI agent security                                               |
 
 Member of the **OWASP AI Exchange** authors group.
+
+-----
+
+## 💡 What Sets Me Apart
+
+|                       |                                                                                                                                      |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|🔭 **Range**            |Technical depth, product judgment, and execution leadership across the full stack — from adversarial research to enterprise delivery  |
+|🧠 **Category Creation**|Coined the term agentegrity, published the formal framework, and defined the vocabulary the industry is adopting for AI agent security|
+|🛠️ **Builder**          |30+ products shipped across startup speed and Fortune 50 scale, with open-source frameworks that developers actually use              |
+|🤝 **Developer Trust**  |Security products built to be adopted by choice, not force — usable, integrated, and fast by design                                   |
+|⚡ **Timing**           |Building the endogenous security layer before the market has a name for it, at the moment physical AI makes it unavoidable            |
 
 -----
 
@@ -205,6 +266,9 @@ Enterprise security architecture, adversarial research, AI infrastructure, feder
 -----
 
 <div align="center">
+
+*Security should not be the thing that slows teams down.*
+*It should be the thing that helps them build with confidence.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A5F&height=120&section=footer&text=Building%20the%20security%20nervous%20system%20for%20autonomous%20AI%20agents&fontSize=14&fontColor=F5F0E8&fontAlignY=65" width="100%"/>
 
