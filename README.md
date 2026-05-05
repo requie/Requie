@@ -46,7 +46,7 @@ We’re building the endogenous alternative, security as a structural property o
 <tr>
 <td width="50%">
 
-### 🧠 [Agentegrity Framework](https://github.com/requie/agentegrity-framework)
+### 🧠 [Agentegrity](https://github.com/requie/agentegrity-framework)
 
 ![Open Source](https://img.shields.io/badge/Open%20Source-Apache%202.0-2C4A3E?style=flat-square)
 ![Tests](https://img.shields.io/badge/Tests-66%20Passing-76B900?style=flat-square&logo=pytest&logoColor=white)
