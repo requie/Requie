@@ -5,11 +5,10 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tarique--smith-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarique-smith)
-[![Co-Founder](https://img.shields.io/badge/Cogensec-cogensec.com-2C4A3E?style=for-the-badge)](https://cogensec.com)
+[![Cogensec](https://img.shields.io/badge/Co-Founder-cogensec.com-2C4A3E?style=for-the-badge)](https://cogensec.com)
 [![NVIDIA Inception](https://img.shields.io/badge/NVIDIA-Inception%20Member-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://nvidia.com/inception)
 [![GTC 2026](https://img.shields.io/badge/GTC%202026-Golden%20Ticket%20Winner-E8A838?style=for-the-badge&logo=nvidia&logoColor=white)](https://cogensec.com)
 [![OWASP](https://img.shields.io/badge/OWASP-AI%20Exchange%20Author-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
-
 </div>
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=requie&show_icons=true&theme=dark&bg_color=1E3A5F&title_color=E8A838&icon_color=E8A838&text_color=F5F0E8&border_color=2C4A3E&hide_border=false&include_all_commits=true&count_private=true" />
