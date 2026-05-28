@@ -5,7 +5,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tarique--smith-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarique-smith)
-[![Cogensec](https://img.shields.io/badge/Co-Founder-cogensec.com-2C4A3E?style=for-the-badge)](https://cogensec.com)
+[![Cogensec](https://img.shields.io/badge/Cogensec-cogensec.com-2C4A3E?style=for-the-badge)](https://cogensec.com)
 [![NVIDIA Inception](https://img.shields.io/badge/NVIDIA-Inception%20Member-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://nvidia.com/inception)
 [![GTC 2026](https://img.shields.io/badge/GTC%202026-Golden%20Ticket%20Winner-E8A838?style=for-the-badge&logo=nvidia&logoColor=white)](https://cogensec.com)
 [![OWASP](https://img.shields.io/badge/OWASP-AI%20Exchange%20Author-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
